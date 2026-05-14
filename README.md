@@ -1,6 +1,6 @@
 # Level-1-Python
 
-# Simple Calculator using Python
+# Task 1: Simple Calculator using Python
 
 ## Project Overview
 
