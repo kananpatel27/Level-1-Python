@@ -113,7 +113,7 @@ The program provides feedback after every guess by indicating whether the guesse
 
 ---
 
-# ▶ How the Program Works
+# How the Program Works
 
 1. The program generates a random number between 1 and 100.
 2. The user enters a guessed number.
