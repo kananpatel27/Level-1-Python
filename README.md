@@ -113,23 +113,6 @@ The program provides feedback after every guess by indicating whether the guesse
 
 ---
 
-# How the Program Works
-
-1. The program generates a random number between 1 and 100.
-2. The user enters a guessed number.
-3. The program checks:
-
-   * If the guess is too high
-   * If the guess is too low
-   * If the guess is correct
-4. The process repeats until:
-
-   * The user guesses correctly
-   * Maximum attempts are completed
-5. The final result is displayed.
-
----
-
 # Learning Outcomes
 
 Through this project of Number Guessing game, I learned:
