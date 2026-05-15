@@ -65,3 +65,81 @@ This project was completed as part of the internship tasks assigned by **Codveda
 
 ---
 
+
+# Task 2: Number Guessing Game in Python
+
+## Project Overview
+
+The Number Guessing Game is a simple Python-based console application developed as part of a Python Development Internship task. In this game, the program randomly generates a number between 1 and 100, and the user has to guess the correct number within a limited number of attempts.
+
+The program provides feedback after every guess by indicating whether the guessed number is too high or too low. The game ends when the user guesses the correct number or when the maximum number of attempts is reached.
+
+---
+
+# Features
+
+* Random number generation using Python's `random` module
+* User-friendly console interaction
+* Feedback system:
+
+  * “Too High”
+  * “Too Low”
+* Limited attempts system
+* Displays total attempts used
+* Game Over message when attempts are exhausted
+* Beginner-friendly and easy-to-understand logic
+
+---
+
+# Concepts Used
+
+* Random Module
+* While Loop
+* Conditional Statements (`if-elif-else`)
+* User Input Handling
+* Counter Variable
+* Loop Control (`break`)
+* Basic Problem Solving Logic
+
+---
+
+# Objectives
+
+* Generate a random number between 1 and 100
+* Allow the user multiple attempts to guess the number
+* Provide hints to improve user guessing
+* Improve logical thinking and Python programming skills
+* Implement game logic using loops and conditions
+
+---
+
+# ▶ How the Program Works
+
+1. The program generates a random number between 1 and 100.
+2. The user enters a guessed number.
+3. The program checks:
+
+   * If the guess is too high
+   * If the guess is too low
+   * If the guess is correct
+4. The process repeats until:
+
+   * The user guesses correctly
+   * Maximum attempts are completed
+5. The final result is displayed.
+
+---
+
+# Learning Outcomes
+
+Through this project of Number Guessing game, I learned:
+
+* How to generate random numbers in Python
+* Implementation of loops and conditions
+* User interaction handling
+* Writing clean and structured Python code
+* Building basic game logic
+
+---
+
+
